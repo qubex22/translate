@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="lenovo_about">About</string>
+    <string name="lenovo_about">Sobre</string>
     <string name="lenovo_about_update">Upgrade</string>
     <string name="lenovo_about_update_now">Upgrade</string>
     <string name="lenovo_about_versoin">New Version Available</string>
