@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string-array name="battery_style_list">
-        <item>Gráfica</item>
-        <item>Porcentaje</item>
-    </string-array>
-</resources>
