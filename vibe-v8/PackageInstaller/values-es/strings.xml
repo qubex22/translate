@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Package installer</string>
-    <string name="next">Next</string>
-    <string name="install">Install</string>
-    <string name="done">Done</string>
-    <string name="security_settings_desc">Allow this app to:</string>
-    <string name="cancel">Cancel</string>
-    <string name="unknown">Unknown</string>
-    <string name="installing">Installing…</string>
-    <string name="install_done">App installed.</string>
+    <string name="app_name">Instalador de Paquetes</string>
+    <string name="next">Siguiente</string>
+    <string name="install">Instalar</string>
+    <string name="done">Hecho</string>
+    <string name="security_settings_desc">Permitir que esta aplicacion:</string>
+    <string name="cancel">Cancelar</string>
+    <string name="unknown">Desconocido</string>
+    <string name="installing">Instalando…</string>
+    <string name="install_done">App instalada.</string>
     <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
     <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
     <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
