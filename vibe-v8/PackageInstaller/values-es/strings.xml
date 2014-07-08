@@ -8,62 +8,62 @@
     <string name="cancel">Cancelar</string>
     <string name="unknown">Desconocido</string>
     <string name="installing">Instalando…</string>
-    <string name="install_done">App instalada.</string>
-    <string name="install_confirm_question">Do you want to install this application? It will get access to:</string>
-    <string name="install_confirm_question_no_perms">Do you want to install this application? It does not require any special access.</string>
-    <string name="install_confirm_question_update">Do you want to install an update to this existing application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_system">Do you want to install an update to this built-in application? Your existing data will not be lost. The updated application will get access to:</string>
-    <string name="install_confirm_question_update_no_perms">Do you want to install an update to this existing application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_confirm_question_update_system_no_perms">Do you want to install an update to this built-in application? Your existing data will not be lost. It does not require any special access.</string>
-    <string name="install_failed">App not installed.</string>
-    <string name="install_failed_invalid_apk">The package appears to be corrupt.</string>
-    <string name="install_failed_inconsistent_certificates">An existing package by the same name with a conflicting signature is already installed.</string>
-    <string name="install_failed_older_sdk">The package only works on newer versions of Android.</string>
-    <string name="install_failed_cpu_abi_incompatible">"This app isn't compatible with your phone."</string>
-    <string name="install_failed_file_not_found">The package specified was deleted before installation could be completed.</string>
-    <string name="install_failed_verify_failed">The package did not pass verification and cannot be installed.</string>
-    <string name="install_failed_verify_timeout">A timeout occurred while trying to verify this package. Try to install it again later.</string>
-    <string name="install_failed_msg">"%1$s couldn't be installed on your phone."</string>
-    <string name="launch">Open</string>
-    <string name="unknown_apps_dlg_title">Install blocked</string>
-    <string name="unknown_apps_dlg_text">For security, your phone is set to block installation of apps obtained from unknown sources.</string>
+    <string name="install_done">Aplicación instalada.</string>
+    <string name="install_confirm_question">¿Quieres instalar esta aplicación? Tendrá acceso a:</string>
+    <string name="install_confirm_question_no_perms">¿Quieres instalar esta aplicación? No requiere ningún acceso especial.</string>
+    <string name="install_confirm_question_update">¿Quieres instalar una actualización de la aplicación existente? No se perderán los datos existentes. La aplicación actualizada tendrá acceso a:</string>
+    <string name="install_confirm_question_update_system">¿Quieres instalar una actualización de esta aplicación incorporada? No se perderán los datos existentes. La aplicación actualizada tendrá acceso a:</string>
+    <string name="install_confirm_question_update_no_perms">¿Quieres instalar una actualización de la aplicación existente? No se perderán los datos existentes. No requiere ningún acceso especial.</string>
+    <string name="install_confirm_question_update_system_no_perms">¿Quieres instalar una actualización de esta aplicación incorporada? No se perderán los datos existentes. No requiere ningún acceso especial.</string>
+    <string name="install_failed">Aplicación no instalada.</string>
+    <string name="install_failed_invalid_apk">El paquete parece estar dañado.</string>
+    <string name="install_failed_inconsistent_certificates">Un paquete existente con el mismo nombre con una firma en conflict ya está instalado.</string>
+    <string name="install_failed_older_sdk">El paquete sólo funciona en las nuevas versiones de Android.</string>
+    <string name="install_failed_cpu_abi_incompatible">"Esta aplicación no es compatible con tu teléfono."</string>
+    <string name="install_failed_file_not_found">El paquete especificado fue eliminado antes de que se completara la instalación.</string>
+    <string name="install_failed_verify_failed">El paquete no pasó la verificación y no se puede instalar.</string>
+    <string name="install_failed_verify_timeout">Se ha producido un tiempo de espera al intentar verificar este paquete. Intente instalarlo de nuevamente.</string>
+    <string name="install_failed_msg">"%1$s no pudo ser instalado en tu teléfono."</string>
+    <string name="launch">Abrir</string>
+    <string name="unknown_apps_dlg_title">Instalación bloqueada</string>
+    <string name="unknown_apps_dlg_text">Por razones de seguridad, su teléfono está configurado para bloquear la instalación de aplicaciones obtenidas de fuentes desconocidas.</string>
     <string name="ok">OK</string>
-    <string name="settings">Settings</string>
-    <string name="allow_source_dlg_title">New source for apps</string>
-    <string name="allow_source_dlg_text">"%1$s wants to install other apps.
+    <string name="settings">Ajustes</string>
+    <string name="allow_source_dlg_title">Nueva fuente para aplicaciones</string>
+    <string name="allow_source_dlg_text">"%1$s quiere instalar otras aplicaciones.
 
-Allow this now and in the future?"</string>
-    <string name="manage_applications">Manage apps</string>
-    <string name="dlg_app_replacement_title">Replace app?</string>
-    <string name="dlg_app_replacement_statement">"The app you're installing will replace another app.
+¿Permitir esto ahora y en el futuro?"</string>
+    <string name="manage_applications">Administrar aplicaciones</string>
+    <string name="dlg_app_replacement_title">¿Reemplazar aplicación?</string>
+    <string name="dlg_app_replacement_statement">"La aplicación que está instalando reemplazará a otra aplicación.
 
-All your previous user data will be saved."</string>
-    <string name="dlg_sys_app_replacement_statement">"This is a system app.
+Se guardarán todos los datos de usuario anteriores."</string>
+    <string name="dlg_sys_app_replacement_statement">"Esta es una aplicación del sistema.
 
-All your previous user data will be saved."</string>
-    <string name="out_of_space_dlg_title">Out of space</string>
-    <string name="out_of_space_dlg_text">"%1$s couldn't be installed. Free up some space and try again."</string>
+Se guardarán todos los datos de usuario anteriores."</string>
+    <string name="out_of_space_dlg_title">Sin espacio</string>
+    <string name="out_of_space_dlg_text">"%1$s no puede ser instalado. Libere espacio e inténtelo nuevamente."</string>
     <string name="dlg_ok">OK</string>
-    <string name="app_not_found_dlg_title">App not found</string>
-    <string name="app_not_found_dlg_text">"The app wasn't found in the list of installed apps."</string>
-    <string name="uninstall_application_title">Uninstall app</string>
-    <string name="uninstall_update_title">Uninstall update</string>
-    <string name="uninstall_activity_text">%1$s is part of the following app:</string>
-    <string name="uninstall_application_text">Do you want to uninstall this app?</string>
-    <string name="uninstall_application_text_all_users">Do you want to uninstall this app for <b>all</b> users? The application and its data will be removed from <b>all</b> users on the device.</string>
-    <string name="uninstall_update_text">Do you want to replace this app with the factory version?</string>
-    <string name="uninstalling">Uninstalling…</string>
-    <string name="uninstall_done">Uninstall finished.</string>
-    <string name="uninstall_failed">Uninstall unsuccessful.</string>
-    <string name="uninstall_failed_device_policy_manager">"Can't uninstall because this package is an active device administrator."</string>
-    <string name="manage_device_administrators">Manage device administrators</string>
-    <string name="uninstall_failed_msg">"%1$s couldn't be uninstalled."</string>
-    <string name="Parse_error_dlg_title">Parse error</string>
-    <string name="Parse_error_dlg_text">There was a problem parsing the package.</string>
-    <string name="newPerms">New</string>
-    <string name="allPerms">All</string>
-    <string name="privacyPerms">Privacy</string>
-    <string name="devicePerms">Device Access</string>
-    <string name="no_new_perms">This update requires no new permissions.</string>
-    <string name="grant_confirm_question">Do you want to grant the following permissions? It will get access to:</string>
+    <string name="app_not_found_dlg_title">Aplicación no encontrada</string>
+    <string name="app_not_found_dlg_text">"La aplicación no se encuentra en la lista de aplicaciones instaladas."</string>
+    <string name="uninstall_application_title">Desinstalar aplicación</string>
+    <string name="uninstall_update_title">Desinstalar actualización</string>
+    <string name="uninstall_activity_text">%1$s es parte del siguiente aplicación:</string>
+    <string name="uninstall_application_text">¿Quieres desinstalar esta aplicación?</string>
+    <string name="uninstall_application_text_all_users">¿Quieres desinstalar esta aplicacion para <b>todos</b> los usuarios? La aplicación y sus datos serán eliminados para <b>todos</b> los usuarios en el dispositivo.</string>
+    <string name="uninstall_update_text">¿Quieres reemplazar esta aplicacion con la versión de fábrica?</string>
+    <string name="uninstalling">Desinstalando…</string>
+    <string name="uninstall_done">Desinstalación terminada.</string>
+    <string name="uninstall_failed">Desinstalación fallida.</string>
+    <string name="uninstall_failed_device_policy_manager">"No se puede desinstalar, porque este paquete es un dispositivo de administrador activo."</string>
+    <string name="manage_device_administrators">Administrar dispositivos administradores</string>
+    <string name="uninstall_failed_msg">"%1$s no puede ser desinstalado."</string>
+    <string name="Parse_error_dlg_title">Error de análisis</string>
+    <string name="Parse_error_dlg_text">Hubo un problema al analizar el paquete.</string>
+    <string name="newPerms">Nuevo</string>
+    <string name="allPerms">Todos</string>
+    <string name="privacyPerms">Privacidad</string>
+    <string name="devicePerms">Acceso al dispositivo</string>
+    <string name="no_new_perms">Esta actualización no requiere de nuevos permisos.</string>
+    <string name="grant_confirm_question">¿Desea otorgar los siguientes permisos? Se tendrá acceso a:</string>
 </resources>
