@@ -18,7 +18,7 @@
     <string name="lockscreen_face_detection_ctrl_description">Desbloquear por reconocimiento facial mediante la cámara，la discriminación será baja si no hay suficiente luz.</string>
     <string name="lockscreen_knock_on_ctrl">Conjunto de luz de golpe</string>
     <string name="lockscreen_knock_on_ctrl_summary">Realize una doble pulsación para iluminar la pantalla del teléfono</string>
-    <string name="overturn_lock_ctrl">Overturn to lock screen</string>dar la vuelta hacia el bloqueo de pantalla
+    <string name="overturn_lock_ctrl">dar la vuelta hacia el bloqueo de pantalla</string>
     <string name="overturn_lock_ctrl_summary">Overturn phone to lock screen</string>dar la vuelta al teléfono hacia el bloqueo de pantalla
     <string name="smart_standby_ctrl">Smart standby</string>suspensión inteligente
     <string name="smart_standby_ctrl_summary">Light the phone while facing the phone</string>ilumina el teléfono mientras se mira el teléfono
