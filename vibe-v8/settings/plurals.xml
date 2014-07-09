@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="show_dev_countdown">
-        <item quantity="other">You are now %1$d steps away from being a developer.</item>
-        <item quantity="one">You are now %1$d step away from being a developer.</item>
+        <item quantity="other">Ahora te encuentras a %1$d pasos de ser un desarrollador.</item>
+        <item quantity="one">Ahora te encuentra a %1$d paso de ser un desarrollador.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_letters">
-        <item quantity="other">Password must contain at least %d letters.</item>
-        <item quantity="one">Password must contain at least 1 letter.</item>
+        <item quantity="other">La contraseña debe contener al menos %d letras.</item>
+        <item quantity="one">La contraseña debe contener al menos una letra.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_lowercase">
-        <item quantity="other">Password must contain at least %d lowercase letters.</item>
-        <item quantity="one">Password must contain at least 1 lowercase letter.</item>
+        <item quantity="other">La contraseña debe contener al menos %d letras minúsculas.</item>
+        <item quantity="one">La contraseña debe contener al menos una letra minúscula.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_uppercase">
-        <item quantity="other">Password must contain at least %d uppercase letters.</item>
-        <item quantity="one">Password must contain at least 1 uppercase letter.</item>
+        <item quantity="other">La contraseña debe contener al menos %d letras mayúsculas.</item>
+        <item quantity="one">La contraseña debe contener al menos una letra mayúscula.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_numeric">
-        <item quantity="other">Password must contain at least %d numerical digits.</item>
-        <item quantity="one">Password must contain at least 1 numerical digit.</item>
+        <item quantity="other">La contraseña debe contener al menos %d dígitos numérico.</item>
+        <item quantity="one">La contraseña debe contener al menos un dígito numérico.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_symbols">
-        <item quantity="other">Password must contain at least %d special symbols.</item>
-        <item quantity="one">Password must contain at least 1 special symbol.</item>
+        <item quantity="other">La contraseña debe contener al menos %d símbolos especiales.</item>
+        <item quantity="one">La contraseña debe contener al menos un símbolo especial.</item>
     </plurals>
     <plurals name="lockpassword_password_requires_nonletter">
-        <item quantity="other">Password must contain at least %d non-letter characters.</item>
-        <item quantity="one">Password must contain at least 1 non-letter character.</item>
+        <item quantity="other">La contraseña debe contener al menos %d caracteres que no sean letras.</item>
+        <item quantity="one">La contraseña debe contener al menos un caracter que no sea letra.</item>
     </plurals>
     <plurals name="manage_notification_access_summary_nonzero">
-        <item quantity="other">%d apps can read notifications</item>
-        <item quantity="one">%d app can read notifications</item>
+        <item quantity="other">%d aplicaciones pueden leer notificaciones</item>
+        <item quantity="one">%d aplicación puede leer notificaciones</item>
     </plurals>
 </resources>
