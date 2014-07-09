@@ -19,10 +19,10 @@
     <string name="lockscreen_knock_on_ctrl">Conjunto de luz de golpe</string>
     <string name="lockscreen_knock_on_ctrl_summary">Realize una doble pulsación para iluminar la pantalla del teléfono</string>
     <string name="overturn_lock_ctrl">dar la vuelta hacia el bloqueo de pantalla</string>
-    <string name="overturn_lock_ctrl_summary">Overturn phone to lock screen</string>dar la vuelta al teléfono hacia el bloqueo de pantalla
-    <string name="smart_standby_ctrl">Smart standby</string>suspensión inteligente
-    <string name="smart_standby_ctrl_summary">Light the phone while facing the phone</string>ilumina el teléfono mientras se mira el teléfono
-    <string name="still_sleep_ctrl">Still to sleep</string>aún a dormir
+    <string name="overturn_lock_ctrl_summary">dar la vuelta al teléfono hacia el bloqueo de pantalla</string>
+    <string name="smart_standby_ctrl">suspensión inteligente</string>
+    <string name="smart_standby_ctrl_summary">ilumina el teléfono mientras se mira el teléfono</string>
+    <string name="still_sleep_ctrl">aún a dormir</string>
     <string name="still_sleep_ctrl_summary">While placed on the flat position horizontally, the phone will sleep.</string>mientras esté en posicion horizontal, el teléfono dormirá
     <string name="smart_rotete_cbox_title">Rotate screen</string>rotación de pantalla
     <string name="smart_rotete_cbox_summary">Smart</string>rotación inteligente
