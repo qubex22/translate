@@ -2,7 +2,7 @@
 <resources>
     <string name="header_category_call_message">LLAMADAS Y MENSAJES</string>
     <string name="call_ring_pocket_enable_title">Modalidad de bolsillo</string>
-    <string name="call_ring_pocket_enable_summary">Tono de timbre al máximo en el bolsilo</string>
+    <string name="call_ring_pocket_enable_summary">Tono de timbre al máximo en el bolsillo</string>
     <string name="call_ring_weaken_enable_title">Disminuir ringtone</string>
     <string name="call_ring_weaken_enable_summary">Tono de timbre debilitado al contestar el teléfono</string>
     <string name="smart_call_answer_settings_title">Respuesta llamada inteligente</string>
