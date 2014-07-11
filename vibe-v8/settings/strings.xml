@@ -106,18 +106,18 @@
     <string name="backup_data_section_title">copia de seguridad de datos</string>
     <string name="backup_data_to_sdcard_title">copia de seguridad de datos a la tarjeta SD</string>
     <string name="backup_data_to_sdcard_summary">copia de seguridad de datos del teléfono a la tarjeta SD</string>
-    <string name="recovery_data_section_title">Data recovery</string>
-    <string name="recovery_data_title">Recover data from SD card backup</string>
-    <string name="recovery_data_summary">Tap to enter SD card data backup</string>
-    <string name="reset_backup_befor_reset_title">Back up data before reset</string>
-    <string name="reset_backup_befor_reset_summary">Back up important data, e.g. contacts, before reset</string>
-    <string name="reset_skip_backup_title">Skip backup</string>
-    <string name="reset_skip_backup_summary">Select this option for items have been backed up or have no needs for backup</string>
-    <string name="whatis_lenovoid_title">"Association passes what is it? "</string>
-    <string name="whatis_lenovoid_summary">"use your cell phone as Lenovo pass account, become a member of the Association. "</string>
-    <string name="what_lenovoid_cando_title">"Association passes what can I do? "</string>
-    <string name="whatis_lenovoid_cando_summary">"unrestrained access to associations for various applications, cloud services, and service. One card in hand, unblocked. "</string>
-    <string name="lock_title">Securing your phone</string>
+    <string name="recovery_data_section_title">datos de recuperación</string>
+    <string name="recovery_data_title">recuperar datos de la copia de seguridad de la tarjeta SD</string>
+    <string name="recovery_data_summary">toca para entrar en los datos de la copia de seguridad de la tarjeta SD</string>
+    <string name="reset_backup_befor_reset_title">copia de seguridad de los datos antes de reiniciar</string>
+    <string name="reset_backup_befor_reset_summary">copia de seguridad de los datos importantes, por ejemplo los contactos, antes de reiniciar</string>
+    <string name="reset_skip_backup_title">Omitir copia de seguridad</string>
+    <string name="reset_skip_backup_summary">Elige esta opción para útiles que has copiado o que no necesitas copiar</string>
+    <string name="whatis_lenovoid_title">Credencial para la cuenta de Lenovo</string>
+    <string name="whatis_lenovoid_summary">Usa tu teléfono como credencial de la cuenta de Lenovo, Sé un miembro de Lenovo</string>
+    <string name="what_lenovoid_cando_title">¿Qué puedo hacer teniendo una cuenta de Lenovo?</string>
+    <string name="whatis_lenovoid_cando_summary">Acceso sin restricciones a asociaciones para varias aplicaciones y servicios así como servicio en la nube. Tarjeta en mano, desbloqueado</string>
+    <string name="lock_title">Securing your phone Asegurando tu teléfono</string>
     <string name="lock_intro_message">"Protect your phone from unauthorized use by creating a personal screen unlock pattern. Slide your finger to connect at least four dots in any order on the next screen. 
 
 Ready to start? Touch Next."</string>
