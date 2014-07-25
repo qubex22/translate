@@ -34,7 +34,7 @@
         <item>1800000</item>
     </string-array>
     <string-array name="dream_timeout_entries">
-        <item>Never</item>
+        <item>Nunca</item>
         <item>15 segundo</item>
         <item>30 segundos</item>
         <item>1 minuto</item>
@@ -54,7 +54,7 @@
         <item>1800000</item>
     </string-array>
     <string-array name="lock_after_timeout_entries">
-        <item>Immediately</item>
+        <item>Inmediatamente</item>
         <item>5 segundos</item>
         <item>15 segundos</item>
         <item>30 segundos</item>
@@ -76,10 +76,10 @@
         <item>1800000</item>
     </string-array>
     <string-array name="entries_font_size">
-        <item>Small</item>
+        <item>Pequeño</item>
         <item>Normal</item>
-        <item>Large</item>
-        <item>Huge</item>
+        <item>Grande</item>
+        <item>Enorme</item>
     </string-array>
     <string-array name="entryvalues_font_size">
         <item>0.85</item>
@@ -88,15 +88,15 @@
         <item>1.30</item>
     </string-array>
     <string-array name="tts_rate_entries">
-        <item>Very slow</item>
-        <item>Slow</item>
+        <item>Muy lento</item>
+        <item>Lento</item>
         <item>Normal</item>
-        <item>Fast</item>
-        <item>Faster</item>
-        <item>Very fast</item>
-        <item>Rapid</item>
-        <item>Very rapid</item>
-        <item>Fastest</item>
+        <item>Rápido</item>
+        <item>Más rápido</item>
+        <item>Muy rápido</item>
+        <item>Rápido</item>
+        <item>Mucho más rápido</item>
+        <item>Lo más rápido</item>
     </string-array>
     <string-array name="tts_rate_values">
         <item>60</item>
@@ -163,7 +163,7 @@
         <item>Desconectado</item>
         <item>Fallido</item>
         <item>Bloqueado</item>
-        <item>Temporarily avoiding poor connection</item>
+        <item>Temporalmente evitado por mala conexión</item>
     </string-array>
     <string-array name="wifi_security">
         <item>@string/wifi_security_none</item>
@@ -377,75 +377,75 @@
         <item>Dispositivo</item>
     </string-array>
     <string-array name="app_ops_summaries">
-        <item>coarse location</item>
-        <item>fine location</item>
+        <item>ubicación aproximada</item>
+        <item>buena ubicación</item>
         <item>GPS</item>
-        <item>vibrate</item>
-        <item>read contacts</item>
-        <item>modify contacts</item>
-        <item>read call log</item>
-        <item>modify call log</item>
-        <item>read calendar</item>
-        <item>modify calendar</item>
-        <item>wi-fi scan</item>
-        <item>notification</item>
-        <item>cell scan</item>
-        <item>call phone</item>
-        <item>read SMS</item>
-        <item>write SMS</item>
+        <item>vibrar</item>
+        <item>leer contactos</item>
+        <item>modificar contactos</item>
+        <item>leer el registro de llamadas</item>
+        <item>modificar el registro de llamadas</item>
+        <item>leer calendario</item>
+        <item>modificar calendario</item>
+        <item>buscar wi-fi</item>
+        <item>notificación</item>
+        <item>buscar teléfono</item>
+        <item>llamar teléfono</item>
+        <item>leer SMS</item>
+        <item>escribir SMS</item>
         <item>receive SMS</item>
-        <item>receive emergency SMS</item>
-        <item>receive MMS</item>
-        <item>receive WAP push</item>
-        <item>send SMS</item>
-        <item>read ICC SMS</item>
-        <item>write ICC SMS</item>
-        <item>modify settings</item>
-        <item>draw on top</item>
-        <item>access notifications</item>
-        <item>camera</item>
-        <item>record audio</item>
-        <item>play audio</item>
-        <item>read clipboard</item>
-        <item>modify clipboard</item>
+        <item>recibir SMS de emergencia</item>
+        <item>recibir MMS</item>
+        <item>recibir WAP push</item>
+        <item>enviar SMS</item>
+        <item>leer ICC SMS</item>
+        <item>escribir ICC SMS</item>
+        <item>modificar ajustes</item>
+        <item>dibujar en la parte superior</item>
+        <item>notificaciones de acceso</item>
+        <item>cámara</item>
+        <item>grabar audio</item>
+        <item>reproducir audio</item>
+        <item>leer portapapeles</item>
+        <item>modificar portapapeles</item>
     </string-array>
     <string-array name="app_ops_labels">
-        <item>Location</item>
-        <item>Location</item>
-        <item>Location</item>
-        <item>Vibrate</item>
-        <item>Read contacts</item>
-        <item>Modify contacts</item>
-        <item>Read call log</item>
-        <item>Modify call log</item>
-        <item>Read calendar</item>
-        <item>Modify calendar</item>
-        <item>Location</item>
-        <item>Post notification</item>
-        <item>Location</item>
-        <item>Call phone</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Receive SMS/MMS</item>
-        <item>Send SMS/MMS</item>
-        <item>Modify settings</item>
-        <item>Draw on top</item>
-        <item>Access notifications</item>
-        <item>Camera</item>
-        <item>Record audio</item>
-        <item>Play audio</item>
-        <item>Read clipboard</item>
-        <item>Modify clipboard</item>
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Ubicación</item>
+        <item>Vibrar</item>
+        <item>Leer contactos</item>
+        <item>Modificar contactos</item>
+        <item>Leer el registro de llamadas</item>
+        <item>Modificar el registro de llamadas</item>
+        <item>Leer calendario</item>
+        <item>Modificar calendario</item>
+        <item>Ubicación</item>
+        <item>Publicar notificación</item>
+        <item>Ubicación</item>
+        <item>Llamar teléfono</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Recibir SMS/MMS</item>
+        <item>Enviar SMS/MMS</item>
+        <item>Modificar ajustes</item>
+        <item>Dibujar en la parte superior</item>
+        <item>Notificaciones de acceso</item>
+        <item>Cámara</item>
+        <item>Grabar audio</item>
+        <item>Reproducir audio</item>
+        <item>Leer portapapeles</item>
+        <item>Modificar portapapels</item>
     </string-array>
     <string-array name="long_press_timeout_selector_titles">
-        <item>Short</item>
-        <item>Medium</item>
-        <item>Long</item>
+        <item>Corto</item>
+        <item>Mediano</item>
+        <item>Largo</item>
     </string-array>
     <string-array name="long_press_timeout_selector_values">
         <item>500</item>
@@ -453,9 +453,9 @@
         <item>1500</item>
     </string-array>
     <string-array name="hdcp_checking_titles">
-        <item>Never check</item>
-        <item>Check for DRM content only</item>
-        <item>Always check</item>
+        <item>Nunca revisar</item>
+        <item>Revisar sólo el contenido DRM</item>
+        <item>Siempre revisar</item>
     </string-array>
     <string-array name="hdcp_checking_values">
         <item>never</item>
@@ -463,18 +463,18 @@
         <item>always</item>
     </string-array>
     <string-array name="hdcp_checking_summaries">
-        <item>Never use HDCP checking</item>
-        <item>Use HDCP checking for DRM content only</item>
-        <item>Always use HDCP checking</item>
+        <item>Nunca usar comprobación HDCP</item>
+        <item>Usar comprobación HDCP sólo para contenido DRM</item>
+        <item>Siempre usar comprobación HDCP</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animación apagada.</item>
+        <item>Animación escala .5x</item>
+        <item>Animación escala 1x</item>
+        <item>Animación escala 1.5x</item>
+        <item>Animación escala 2x</item>
+        <item>Animación escala 5x</item>
+        <item>Animación escala 10x</item>
     </string-array>
     <string-array name="window_animation_scale_values">
         <item>0</item>
@@ -486,13 +486,13 @@
         <item>10</item>
     </string-array>
     <string-array name="transition_animation_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animación apagada.</item>
+        <item>Animación escala .5x</item>
+        <item>Animación escala 1x</item>
+        <item>Animación escala 1.5x</item>
+        <item>Animación escala 2x</item>
+        <item>Animación escala 5x</item>
+        <item>Animación escala 10x</item>
     </string-array>
     <string-array name="transition_animation_scale_values">
         <item>0</item>
@@ -504,13 +504,13 @@
         <item>10</item>
     </string-array>
     <string-array name="animator_duration_scale_entries">
-        <item>Animation off</item>
-        <item>Animation scale .5x</item>
-        <item>Animation scale 1x</item>
-        <item>Animation scale 1.5x</item>
-        <item>Animation scale 2x</item>
-        <item>Animation scale 5x</item>
-        <item>Animation scale 10x</item>
+        <item>Animación apagada.</item>
+        <item>Animación escala .5x</item>
+        <item>Animación escala 1x</item>
+        <item>Animación escala 1.5x</item>
+        <item>Animación escala 2x</item>
+        <item>Animación escala 5x</item>
+        <item>Animación escala 10x</item>
     </string-array>
     <string-array name="animator_duration_scale_values">
         <item>0</item>
@@ -522,11 +522,11 @@
         <item>10</item>
     </string-array>
     <string-array name="overlay_display_devices_entries">
-        <item>None</item>
+        <item>Ninguna</item>
         <item>720x480 mdpi</item>
         <item>1280x720 tvdpi</item>
         <item>1920x1080 xhdpi</item>
-        <item>1280x720 tvdpi and 1920x1080 xhdpi</item>
+        <item>1280x720 tvdpi y 1920x1080 xhdpi</item>
     </string-array>
     <string-array name="overlay_display_devices_values">
         <item></item>
@@ -536,10 +536,10 @@
         <item>1280x720/213;1920x1080/320</item>
     </string-array>
     <string-array name="enable_opengl_traces_entries">
-        <item>None</item>
+        <item>Ninguno</item>
         <item>Logcat</item>
-        <item>Systrace (Graphics)</item>
-        <item>Call stack on glGetError</item>
+        <item>Systrace (Gráficos)</item>
+        <item>Llamar al montón con glGetError</item>
     </string-array>
     <string-array name="enable_opengl_traces_values">
         <item>0</item>
@@ -548,9 +548,9 @@
         <item>error</item>
     </string-array>
     <string-array name="show_non_rect_clip_entries">
-        <item>Off</item>
-        <item>Draw non-rectangular clip region in blue</item>
-        <item>Highlight tested drawing commands in green</item>
+        <item>Apagado</item>
+        <item>Dibujar una región no-rectangular en azul</item>
+        <item>Resaltar los dibujos probados en verde</item>
     </string-array>
     <string-array name="show_non_rect_clip_values">
         <item>hide</item>
@@ -558,10 +558,10 @@
         <item>highlight</item>
     </string-array>
     <string-array name="track_frame_time_entries">
-        <item>Off</item>
-        <item>On screen as bars</item>
-        <item>On screen as lines</item>
-        <item>In adb shell dumpsys gfxinfo</item>
+        <item>Apagado</item>
+        <item>En la pantalla como barras</item>
+        <item>En la pantalla como líneas</item>
+        <item>En adb shell dumpsys gfxinfo</item>
     </string-array>
     <string-array name="track_frame_time_values">
         <item>false</item>
@@ -570,12 +570,12 @@
         <item>true</item>
     </string-array>
     <string-array name="app_process_limit_entries">
-        <item>Standard limit</item>
-        <item>No background processes</item>
-        <item>At most 1 process</item>
-        <item>At most 2 processes</item>
-        <item>At most 3 processes</item>
-        <item>At most 4 processes</item>
+        <item>Límite estándar</item>
+        <item>Sin procesos en segundo plano</item>
+        <item>1 proceso como máximo</item>
+        <item>2 procesos como máximo</item>
+        <item>3 procesos como máximo</item>
+        <item>4 procesos como máximo</item>
     </string-array>
     <string-array name="app_process_limit_values">
         <item>-1</item>
@@ -595,26 +595,26 @@
     </string-array>
     <string-array name="vpn_types_long">
         <item>PPTP VPN</item>
-        <item>L2TP/IPSec VPN with pre-shared keys</item>
-        <item>L2TP/IPSec VPN with certificates</item>
-        <item>IPSec VPN with pre-shared keys and Xauth authentication</item>
-        <item>IPSec VPN with certificates and Xauth authentication</item>
-        <item>IPSec VPN with certificates and hybrid authentication</item>
+        <item>L2TP/IPSec VPN con llaves pre-compartidas</item>
+        <item>L2TP/IPSec VPN con certificados</item>
+        <item>IPSec VPN con llaves pre-compartidas y autentificación Xauth</item>
+        <item>IPSec VPN con certificados y autentificación Xauth</item>
+        <item>IPSec VPN con certificados y autentificación híbrida</item>
     </string-array>
     <string-array name="vpn_states">
-        <item>Disconnected</item>
-        <item>Initializing…</item>
-        <item>Connecting…</item>
-        <item>Connected</item>
-        <item>Timeout</item>
-        <item>Unsuccessful</item>
+        <item>Desconectado</item>
+        <item>Inicializando…</item>
+        <item>Conectando…</item>
+        <item>Conectado</item>
+        <item>Interrumpido</item>
+        <item>Fallido</item>
     </string-array>
     <string-array name="user_content_ratings_entries">
-        <item>Ascended being</item>
-        <item>Human</item>
+        <item>Siendo ascendido</item>
+        <item>Humano</item>
         <item>Neanderthal</item>
-        <item>Chimp</item>
-        <item>Monkey</item>
+        <item>Chimpancé</item>
+        <item>Mono</item>
     </string-array>
     <string-array name="user_content_ratings_values">
         <item>5</item>
@@ -624,9 +624,9 @@
         <item>1</item>
     </string-array>
     <string-array name="security_settings_premium_sms_values">
-        <item>Ask</item>
-        <item>Never allow</item>
-        <item>Always allow</item>
+        <item>Preguntar</item>
+        <item>Nunca permitir</item>
+        <item>Siempre permitir</item>
     </string-array>
     <string-array name="input_method_selector_titles">
         <item>@string/input_method_selector_show_automatically_title</item>
@@ -644,34 +644,34 @@
         <item>3</item>
     </string-array>
     <string-array name="entries_smart_rotation">
-        <item>Smart Rotation screen（rotate screen as your eyes）</item>
-        <item>Auto-rotate screen</item>
-        <item>Closed</item>
+        <item>Rotación de pantalla inteligente （girar la pantalla como tus ojos ）</item>
+        <item>Auto-rotación de pantalla</item>
+        <item>Cerrado</item>
     </string-array>
     <string-array name="entryvalues_keyboard_lights">
         <item>0</item>
         <item>1</item>
     </string-array>
     <string-array name="entries_keyboard_lights">
-        <item>Normally on</item>
-        <item>For 3 seconds</item>
+        <item>Normalmente en</item>
+        <item>Por 3 segundos</item>
     </string-array>
     <string-array name="saturation">
-        <item>Soft</item>
-        <item>Default</item>
-        <item>Bright</item>
+        <item>Suave</item>
+        <item>Por defecto</item>
+        <item>Brillante</item>
     </string-array>
     <string-array name="contrast">
-        <item>Default</item>
-        <item>Hight</item>
+        <item>Por defecto</item>
+        <item>Alto</item>
     </string-array>
     <string-array name="hue">
-        <item>Cool</item>
-        <item>Default</item>
-        <item>Warm</item>
+        <item>Fresco</item>
+        <item>Por defecto</item>
+        <item>Caliente</item>
     </string-array>
     <string-array name="sharpen">
-        <item>Default</item>
-        <item>Sharpen</item>
+        <item>Por defecto</item>
+        <item>Afilar</item>
     </string-array>
 </resources>
